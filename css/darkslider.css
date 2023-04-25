@@ -1,0 +1,19 @@
+
+.dark-slider{
+    overflow-x: hidden;
+    width: 100%;
+}
+
+.dark-slider .dark-wrapper{
+    width: 100%;
+    display: flex;
+    transition: all .3s ease-in-out;
+    -webkit-transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    -ms-transition: all .3s ease-in-out;
+    -o-transition: all .3s ease-in-out;
+}
+
+.dark-slider .dark-wrapper .dark-slide{
+    flex: 0 0 100%;
+}
