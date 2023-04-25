@@ -1,2 +1,2 @@
 # dark-slider
-git commit -m "first commit"
+`git commit -m "first commit" `
